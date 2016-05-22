@@ -1,3 +1,0 @@
-Test 1 Develop
-En een conflict vanuit Develop toegevoegd!
-Added line in feature 1!
