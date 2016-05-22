@@ -1,3 +1,3 @@
 AAA
-BBB Added a change from feature 6.
+BBB A changed line from F7
 CCC
