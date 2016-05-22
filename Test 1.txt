@@ -1,3 +1,0 @@
-Dit is regel 1 in test 1.
-Dit is regel 2 in test 1. - Aanpassing 1 op Develop.
-Dit is regel 3 in test 1.
