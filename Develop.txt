@@ -1,4 +1,3 @@
 AAA
-BBB - Conflict door F12-2!
+BBB
 CCC
-F12-1
