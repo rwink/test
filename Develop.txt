@@ -1,4 +1,3 @@
 AAA
-BBB - Conflict vanuit F13-3!
+BBB
 CCC
-Toevoeging vanuit F13-2
